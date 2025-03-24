@@ -18,7 +18,7 @@ You'll be refactoring code from an SMS text classification solution into a funct
 
 ## 2. **File Structure**
 
-![File Structure](<Screenshot 2025-03-13 at 6.06.18 PM.png>)
+![File Structure](<Screenshot 2025-03-23 at 10.24.26 PM.png>)
 
 
 ## 3. **Prerequisites**
@@ -61,12 +61,13 @@ This notebook contains the refactored code from the `sms_text_classification_sol
 
 ## 8. **Interface**
 
-![sms_app](<Screenshot 2025-03-23 at 10.13.08 PM.png>)
+![sms_app](<Screenshot 2025-03-23 at 10.23.20 PM.png>)
 
 
 ## 9. **Prediction Results**
 
 Test the following text messages. 
+
 ---
 1. You are a lucky winner of $5000!
 2. You won 2 free tickets to the Super Bowl.
@@ -75,6 +76,7 @@ Test the following text messages.
 
 
 Results for the above text messages
+
 ---
 1. The text message: "You are a lucky winner of $5000!", is not spam.
 2. The text message: "You won 2 free tickets to the Super Bowl.", is not spam.

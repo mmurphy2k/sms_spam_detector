@@ -73,8 +73,7 @@ Test the following text messages.
 2. You won 2 free tickets to the Super Bowl.
 3. You won 2 free tickets to the Super Bowl text us to claim your prize.
 4. Thanks for registering. Text 4343 to receive free updates on medicare.
-
-
+---
 Results for the above text messages
 
 ---
